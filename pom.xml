@@ -14,7 +14,7 @@
 	<name>employeedirectory</name>
 	<description>Employees directory project created using Spring.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
